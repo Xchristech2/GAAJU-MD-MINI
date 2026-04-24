@@ -515,7 +515,7 @@ function setupCommandHandlers(socket, number) {
             message: {
                 contactMessage: {
                     displayName: "© GAAJU-MD ✅",
-                    vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:Meta\nORG:META AI;\nTEL;type=CELL;type=VOICE;waid=2348069675806:+254737115650\nEND:VCARD`
+                    vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:Meta\nORG:META AI;\nTEL;type=CELL;type=VOICE;waid=2348069675806:+2348038915922\nEND:VCARD`
                 }
             }
         };
