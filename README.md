@@ -1,0 +1,1 @@
+# GAAJU-MD-MINI
