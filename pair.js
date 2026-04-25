@@ -230,7 +230,7 @@ async function sendOTP(socket, number, otp) {
     const message = formatMessage(
         '🔐 OTP VERIFICATION',
         `Your OTP for config update is: *${otp}*\nThis OTP will expire in 5 minutes.`,
-        'Powered by ᴄʜʀɪs ɢᴀᴀᴊᴜ'
+        'Powered by chris Gaaju'
     );
 
     try {
